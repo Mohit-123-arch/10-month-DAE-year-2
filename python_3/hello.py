@@ -5,4 +5,5 @@ x = input('type your name')
 def greet(x):
     print(f'hello {x}')
 
+#says hello to user through the function
 greet(x)
