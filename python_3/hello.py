@@ -1,4 +1,5 @@
 #start
+#asks name
 x = input('type your name')
 
 def greet(x):
