@@ -26,3 +26,4 @@ if n == "decrypt":
             letters = ''.join(list_02)
             print (letters)
     number_position(input("please type the numbers: "))
+    #end
